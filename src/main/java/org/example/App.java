@@ -1,6 +1,5 @@
 package org.example;
 
-import java.net.Authenticator;
 import java.util.Scanner;
 
 /*
